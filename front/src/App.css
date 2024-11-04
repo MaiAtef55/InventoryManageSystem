@@ -1,0 +1,10 @@
+.App{
+    background-image: url("./2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: rgb(6, 7, 8);
+    min-height: 800px;
+    font-size: large;
+  }
+

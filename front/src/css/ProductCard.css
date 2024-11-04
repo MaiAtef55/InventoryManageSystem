@@ -1,0 +1,21 @@
+#curd{
+border-radius: 15px;
+background-color: rgb(247, 244, 140);
+color: rgb(0, 0, 0);
+height: 300px;
+margin: 15px;
+text-align: center;
+overflow: auto;
+}
+
+
+#Img{ 
+    border-radius: 15px;
+    height: 250px;
+    
+}
+
+#Card{
+   
+    margin: 50px;
+}

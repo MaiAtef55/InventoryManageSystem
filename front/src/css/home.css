@@ -1,0 +1,32 @@
+.text{
+ 
+    
+    color: rgb(6, 7, 8);
+    min-height: 500px;
+  }
+
+  .logo {
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+
+  .text {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .text h1 {
+    margin-top: 50px;
+    font-size: 60px;
+    color: rgb(24, 23, 22);
+ 
+  }
+  
+  .text p {
+  
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  

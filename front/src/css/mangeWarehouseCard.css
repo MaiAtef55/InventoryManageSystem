@@ -1,0 +1,23 @@
+#badycurd{
+  color: #faf8f8;
+height: 300px;
+  
+margin: 5px;
+
+border-radius: 15px;
+background-color: rgb(10, 11, 11);
+text-align: center;
+}
+
+#curd{
+  
+  border: 2px solid rgb(18, 17, 17);
+}
+#Title{
+ 
+  border: #3a3737 solid .5px;
+}
+#btn1,#btn2{
+  width: 95%;
+margin: 5px;
+}
